@@ -1,0 +1,5 @@
+E:\Project\Asp.net教学\_1_List\_1_List\bin\_1_List.dll
+E:\Project\Asp.net教学\_1_List\_1_List\bin\_1_List.pdb
+E:\Project\Asp.net教学\_1_List\_1_List\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Asp.net教学\_1_List\_1_List\obj\Debug\_1_List.dll
+E:\Project\Asp.net教学\_1_List\_1_List\obj\Debug\_1_List.pdb
