@@ -78,6 +78,9 @@
     <Content Include="JScript1.js" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Themes\Skin1\Skin1.skin" />
+  </ItemGroup>
+  <ItemGroup>
     <Folder Include="App_Data\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

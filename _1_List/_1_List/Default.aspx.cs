@@ -20,10 +20,10 @@ namespace _1_List
         {
             if (!IsPostBack)
             {
-
+                
             }
         }
-
+        
         protected void button1_Click(object sender, EventArgs e)
         {
             DateTime dt = DateTime.Now;
@@ -36,10 +36,13 @@ namespace _1_List
             Response.Write("<script>console.log(\"结束加载时间:'" + dt1 + "\");</script>");
             Response.Write("<script>console.log(\"加载所用时间:'" + (dt1 - dt) + "\");</script>");
         }
-
-
-
+        protected void Page_preinit(object sender, EventArgs e)
+        {
+            this.Theme = "Skin1";
+        }
+        protected void Button2_PreRender(object sender, EventArgs e)
+        {
+            
+        }
     }
-
-
 }

@@ -1,12 +1,43 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" >
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>无标题页</title>
 
     <script src="JScript1.js" type="text/javascript"></script>
+
+    <style type="text/css">
+        .setup
+        {
+            width: 100px;
+            height: 100px;
+            background-color: #887766;
+        }
+        .show
+        {
+            display: block;
+        }
+        .hide
+        {
+            display: none;
+        }
+    </style>
+
+    <script type="text/javascript">
+        var setup_now_number;
+        window.onload=function(){
+            setup_now_number=0;
+	        document.getElementsByClassName("setup")[0].
+        }        
+    </script>
+
 </head>
 <body>
-    <select id="select"></select>
+    <select id="select">
+    </select>
     <input type="button" id="button1" value="加载数据" />
+    <div id="setup_1" class="setup">
+    </div>
+    <div id="setup_2" class="setup">
+    </div>
 </body>
 </html>
