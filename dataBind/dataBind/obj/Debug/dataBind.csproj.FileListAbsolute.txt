@@ -1,0 +1,5 @@
+E:\Project\Asp.net教学\dataBind\dataBind\bin\dataBind.dll
+E:\Project\Asp.net教学\dataBind\dataBind\bin\dataBind.pdb
+E:\Project\Asp.net教学\dataBind\dataBind\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Asp.net教学\dataBind\dataBind\obj\Debug\dataBind.dll
+E:\Project\Asp.net教学\dataBind\dataBind\obj\Debug\dataBind.pdb

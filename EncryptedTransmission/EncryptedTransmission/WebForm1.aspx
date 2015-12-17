@@ -1,0 +1,32 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="EncryptedTransmission.WebForm1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>无标题页</title>
+    <!--
+    <script type="text/javascript">
+        function GetJson(JsonString) {
+            var JsonObject = JSON.parse(JsonString);
+            for (var i = 0; JsonObject.length; i++) {
+                for (key in JsonObject[i]) {
+                    console.log(key + JsonObject[i][key]);
+                }
+            }
+        }
+    </script>
+    -->
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:GridView ID="GridView1" runat="server">
+            <Columns>
+                <asp:BoundField DataField="testId" HeaderText="Id" />
+                <asp:BoundField DataField="testName" HeaderText="Name" />
+            </Columns>
+        </asp:GridView>
+    </div>
+    </form>
+</body>
+</html>

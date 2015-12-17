@@ -1,0 +1,5 @@
+E:\Project\Asp.net教学\EncryptedTransmission\EncryptedTransmission\bin\EncryptedTransmission.dll
+E:\Project\Asp.net教学\EncryptedTransmission\EncryptedTransmission\bin\EncryptedTransmission.pdb
+E:\Project\Asp.net教学\EncryptedTransmission\EncryptedTransmission\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Asp.net教学\EncryptedTransmission\EncryptedTransmission\obj\Debug\EncryptedTransmission.dll
+E:\Project\Asp.net教学\EncryptedTransmission\EncryptedTransmission\obj\Debug\EncryptedTransmission.pdb
